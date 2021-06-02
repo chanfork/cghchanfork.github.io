@@ -12,7 +12,7 @@ You can use this as a replacement if the power button on your Garmin Edge 510 is
 ## Image
 
 ![edge510_btn_2.jpg](../../_resources/85890237cedb42d688170f6b337c4b83.jpg)
-![edge510_btn_3.jpg](docs/_resources/53b9410415494e20b4dbbb60623ee662.jpg)
+![edge510_btn_3.jpg](https://github.com/chanfork/chanfork.github.io/blob/main/docs/_resources/53b9410415494e20b4dbbb60623ee662.jpg?raw=true)
 ![edge510_btn_4.jpg](../../_resources/d003c47331654b7daef92b1503732de3.jpg)
 
 ## File
